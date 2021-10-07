@@ -1,0 +1,1 @@
+# android_vendor_samsung_gt5note10lte
